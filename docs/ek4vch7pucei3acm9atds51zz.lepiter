@@ -1,0 +1,151 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "5fd99fd1-639d-0d00-9e01-4341069fecf5"
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Graph Viewer"
+	},
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-06-09T13:25:58.692698+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-06-09T13:26:02.81373+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vLKg0WOdDQCeAnryBp/s9Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/graph-viewer)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2022-06-09T13:26:37.515554+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2022-06-09T13:26:57.150224+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "p7Pu1GOdDQCeBdtXBp/s9Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "(:Employee{name:'H. R. Collins'})\n  -[:Manager]->\n    (:Employee{name:'E. R. Lee'})\n\n(:Employee{name:'W. F. Lewis'})\n  -[:Manager]->\n    (:Employee{name:'H. R. Collins'})\n\n(:Employee{name:'T. M. Barnes'})\n  -[:Manager]->\n    (:Employee{name:'W. F. Lewis'})\n\n(:Employee{name:'C. G. Moore'})\n  -[:Manager]->\n    (:Employee{name:'T. M. Barnes'})\n\n(:Employee{name:'C. J. Collins'})\n  -[:Manager]->\n    (:Employee{name:'T. M. Barnes'})\n\n(:Employee{name:'O. M. Cruz'})\n  -[:Manager]->\n    (:Employee{name:'T. M. Barnes'})\n\n(:Employee{name:'A. I. Myers'})\n  -[:Manager]->\n    (:Employee{name:'T. M. Barnes'})\n\n(:Employee{name:'C. P. Murphy'})\n  -[:Manager]->\n    (:Employee{name:'W. F. Lewis'})\n\n(:Employee{name:'A. F. Hall'})\n  -[:Manager]->\n    (:Employee{name:'C. P. Murphy'})\n\n(:Employee{name:'E. S. Watson'})\n  -[:Manager]->\n    (:Employee{name:'C. P. Murphy'})\n\n(:Employee{name:'E. G. Hall'})\n  -[:Manager]->\n    (:Employee{name:'C. P. Murphy'})\n\n(:Employee{name:'S. J. Baker'})\n  -[:Manager]->\n    (:Employee{name:'C. P. Murphy'})\n\n(:Employee{name:'A. J. Flores'})\n  -[:Manager]->\n    (:Employee{name:'H. R. Collins'})\n\n(:Employee{name:'M. A. Baker'})\n  -[:Manager]->\n    (:Employee{name:'A. J. Flores'})\n\n(:Employee{name:'R. H. Young'})\n  -[:Manager]->\n    (:Employee{name:'M. A. Baker'})\n\n(:Employee{name:'S. K. Nelson'})\n  -[:Manager]->\n    (:Employee{name:'M. A. Baker'})\n\n(:Employee{name:'A. L. Bennett'})\n  -[:Manager]->\n    (:Employee{name:'M. A. Baker'})\n\n(:Employee{name:'I. D. Jenkins'})\n  -[:Manager]->\n    (:Employee{name:'M. A. Baker'})\n\n(:Employee{name:'L. I. Sanders'})\n  -[:Manager]->\n    (:Employee{name:'A. J. Flores'})\n\n(:Employee{name:'R. H. Sullivan'})\n  -[:Manager]->\n    (:Employee{name:'L. I. Sanders'})\n\n(:Employee{name:'G. K. Bennett'})\n  -[:Manager]->\n    (:Employee{name:'L. I. Sanders'})\n\n(:Employee{name:'P. M. Phillips'})\n  -[:Manager]->\n    (:Employee{name:'L. I. Sanders'})\n\n(:Employee{name:'J. E. Jones'})\n  -[:Manager]->\n    (:Employee{name:'L. I. Sanders'})\n\n(:Employee{name:'O. C. Cooper'})\n  -[:Manager]->\n    (:Employee{name:'H. R. Collins'})\n\n(:Employee{name:'G. S. Walker'})\n  -[:Manager]->\n    (:Employee{name:'O. C. Cooper'})\n\n(:Employee{name:'O. A. Davis'})\n  -[:Manager]->\n    (:Employee{name:'G. S. Walker'})\n\n(:Employee{name:'O. I. Cooper'})\n  -[:Manager]->\n    (:Employee{name:'G. S. Walker'})\n\n(:Employee{name:'N. O. Watson'})\n  -[:Manager]->\n    (:Employee{name:'G. S. Walker'})\n\n(:Employee{name:'L. K. Murphy'})\n  -[:Manager]->\n    (:Employee{name:'G. S. Walker'})\n\n(:Employee{name:'B. B. Clark'})\n  -[:Manager]->\n    (:Employee{name:'O. C. Cooper'})\n"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-06-09T13:26:16.3812+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-06-09T13:26:47.320494+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "x9es02OdDQCeA9GKBp/s9Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "details in cypher:"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-06-09T13:25:41.476436+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-06-09T13:25:50.025262+02:00"
+		}
+	}
+}
